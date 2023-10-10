@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Detect Domestic Violence in Image",
+    "description": "Detection of Domestic Violence in image",
+    "version": "1.0",
+    "action": {
+    "default_popup": "drag.html"
+    },
+    "icons": {
+        "16": "Images/icon16.png",
+        "32": "Images/icon32.png",
+        "128": "Images/icon128.png"
+    },
+    "permissions":["activeTab"]
+}
